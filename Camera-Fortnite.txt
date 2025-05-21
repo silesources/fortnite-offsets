@@ -1,0 +1,4 @@
+These are for CAMERA ONLY -> FIND MORE OFFSETS ON THE OFFSETS.TXT IN THE FILE SECITON
+1. ->  0x160 (LOCATION) -> L
+2. ->  0x170 (ROTATION) -> R
+Offsets updated by Ezzra
