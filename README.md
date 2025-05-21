@@ -1,2 +1,1 @@
-# fortnite-offsets
-Always updated &amp; 24/7 Fortnite offsets
+I will always update these offsets, each update. Join my discord for more info ->: - discord.gg/hazeud
